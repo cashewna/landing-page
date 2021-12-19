@@ -1,2 +1,2 @@
-# landing-page
-Practice page :-)
+# Landing-Page
+Practicing my HTML and CSS foundations :-)
